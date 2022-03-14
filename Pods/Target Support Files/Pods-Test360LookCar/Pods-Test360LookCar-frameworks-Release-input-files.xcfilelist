@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Test360LookCar/Pods-Test360LookCar-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/YYCategories/YYCategories.framework

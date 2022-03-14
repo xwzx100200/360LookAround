@@ -1,0 +1,28 @@
+PODS:
+  - Masonry (1.1.0)
+  - SDWebImage (5.12.1):
+    - SDWebImage/Core (= 5.12.1)
+  - SDWebImage/Core (5.12.1)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+
+DEPENDENCIES:
+  - Masonry
+  - SDWebImage (= 5.12.1)
+  - YYCategories (= 1.0.4)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - SDWebImage
+    - YYCategories
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+
+PODFILE CHECKSUM: d27a4c2f521f5594c8e6778b4f70b402510c030d
+
+COCOAPODS: 1.11.2
